@@ -1,7 +1,7 @@
 {
-	"name": "btv-theme",
-	"displayName": "BTV Theme",
-	"description": "Custom color theme for vscode",
+	"name": "btv-themes",
+	"displayName": "BTV Themes",
+	"description": "Custom color themes for vscode",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.102.0"
@@ -14,7 +14,7 @@
 			{
 				"label": "BTV Theme Dark",
 				"uiTheme": "vs-dark",
-				"path": "./themes/BTV Theme Dark-color-theme.json"
+				"path": "./themes/btv-theme-dark-color-theme.json"
 			}
 		]
 	}
