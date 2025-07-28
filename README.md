@@ -1,16 +1,65 @@
-# btv-theme README
+# BTV VSCode Themes
 
-## Working with Markdown
+SHORT_OVERVIEW
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Table of Contents
 
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-- Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-- Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- [BTV VSCode Themes](#btv-vscode-themes)
+  - [Table of Contents](#table-of-contents)
+  - [About](#about)
+  - [Installing](#installing)
+  - [Getting Started](#getting-started)
+  - [Usage](#usage)
+  - [Credits](#credits)
+    - [Created By](#created-by)
+    - [Contributing](#contributing)
+    - [Acknowledgments](#acknowledgments)
+    - [Made Using](#made-using)
+  - [Repositories](#repositories)
+  - [License](#license)
 
-## For more information
+## About
 
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+LONG_OVERVIEW
 
-**Enjoy!**
+## Installing
+
+INSTALLATION_INSTRUCTIONS
+
+## Getting Started
+
+SETUP_INSTRUCTIONS
+
+## Usage
+
+HOW_TO_USE
+
+## Credits
+
+### Created By
+
+[Brandon Vout](https://brandonvout.com/)
+
+### Contributing
+
+CONTRIBUTORS
+
+### Acknowledgments
+
+ACKNOWLEDGING
+
+### Made Using
+
+ENGINE_OR_LIBRARIES_OR_TOOLS
+
+## Repositories
+
+- [Github](https://github.com/brandonvout/vscode-themes)
+- [Gitlab](https://gitlab.com/brandonvout/vscode-themes)
+- [Bitbucket](https://bitbucket.org/BrandonVout/vscode-themes/src)
+- [Codeberg](https://codeberg.org/BrandonVout/vscode-themes)
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Published under the **[MIT License](./LICENSE)**. Everyone is free to use and modify however they wish.
