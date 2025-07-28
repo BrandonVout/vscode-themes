@@ -48,7 +48,7 @@
 			"scope": [
 				"keyword.control",
 				"constant.other.color",
-				"punctuation",
+				// "punctuation",
 				"meta.tag",
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
@@ -64,6 +64,13 @@
 			}
 		},
 		{
+			"name": "Punctuation",
+			"scope": ["punctuation"],
+			"settings": {
+				"foreground": "#bbd1e5"
+			}
+		},
+		{
 			"name": "Tag",
 			"scope": ["entity.name.tag", "meta.tag.sgml", "markup.deleted.git_gutter"],
 			"settings": {
@@ -74,7 +81,7 @@
 			"name": "Function, Special Method",
 			"scope": ["entity.name.function", "meta.function-call", "variable.function", "support.function", "keyword.other.special-method"],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#ffbe6f"
 			}
 		},
 		{
@@ -105,6 +112,13 @@
 			],
 			"settings": {
 				"foreground": "#57e389"
+			}
+		},
+		{
+			"name": "Booleans",
+			"scope": ["constant"],
+			"settings": {
+				"foreground": "#62a0ea"
 			}
 		},
 		{
@@ -195,14 +209,14 @@
 			"scope": ["entity.name.method.js"],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#82AAFF"
+				"foreground": "#ffbe6f"
 			}
 		},
 		{
 			"name": "meta.method.js",
 			"scope": ["meta.class-method.js entity.name.function.js", "variable.function.constructor"],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#ffbe6f"
 			}
 		},
 		{
@@ -231,7 +245,7 @@
 			"name": "CSS ID's",
 			"scope": ["source.sass keyword.control"],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#ffbe6f"
 			}
 		},
 		{
@@ -266,7 +280,8 @@
 			"name": "Escape Characters",
 			"scope": ["constant.character.escape"],
 			"settings": {
-				"foreground": "#d56199"
+				"fontStyle": "bold",
+				"foreground": "#cdab8f"
 			}
 		},
 		{
@@ -281,7 +296,7 @@
 			"scope": ["tag.decorator.js entity.name.tag.js", "tag.decorator.js punctuation.definition.tag.js"],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#82AAFF"
+				"foreground": "#ffbe6f"
 			}
 		},
 		{
@@ -341,7 +356,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#ffbe6f"
 			}
 		},
 		{
@@ -456,7 +471,7 @@
 			"name": "Markdown - Link",
 			"scope": ["string.other.link.title.markdown"],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#ffbe6f"
 			}
 		},
 		{
