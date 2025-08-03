@@ -1,0 +1,70 @@
+{
+	// vscode settings for One Dark Pro implementation
+	"editor.tokenColorCustomizations": {
+		"[One Dark Pro]": {
+			"textMateRules": [
+				{
+					"scope": ["variable.other.constant"], // const variables
+					"settings": {
+						"fontStyle": "bold",
+						"foreground": "#2ec27e"
+					}
+				},
+				{
+					"scope": ["variable.parameter"], // parameter variables
+					"settings": {
+						"foreground": "#8ff0a4"
+					}
+				},
+				{
+					"scope": ["keyword.control"], // for, if, while, return, etc.
+					"settings": {
+						// === Custom Theme ===
+						"foreground": "#d56199"
+					}
+				},
+				{
+					"scope": ["constant"], // boolean values
+					"settings": {
+						"foreground": "#62a0ea"
+					}
+				},
+				{
+					"scope": ["constant.character.escape"], // escape characters, \t, \n, etc.
+					"settings": {
+						"fontStyle": "bold"
+					}
+				}
+			]
+		}
+	},
+	"oneDarkPro.bold": true,
+	"oneDarkPro.color": {
+		"chalky": "#57e389", //	classes, constants
+		"coral": "#99c1f1", //	variables
+		"dark": "#3d3846", //	markup links, dim (?)
+		"deepRed": "#d56199", //	embedded punctuation (?)
+		"error": "#c01c28", //	errors
+		"fountainBlue": "#cdab8f", //	escape characters, \t, \n, etc.
+		"green": "#ff888c", //	strings
+		"invalid": "#ffffff", //	broken, deprecated, or unimplemented
+		"lightDark": "#ffffff8c", //	comments
+		"lightWhite": "#bbd1e5", //	operators
+		"malibu": "#ffbe6f", //	methods, functions
+		"purple": "#ffa0d8", //	keywords
+		"whiskey": "#2ec27e" //	numbers, bools, etc.
+	},
+	"oneDarkPro.editorTheme": "One Dark Pro Night Flat",
+	"workbench.colorCustomizations": {
+		"editor.background": "#1d1d20",
+		"editorBracketHighlight.foreground1": "#ffa0d8",
+		"editorBracketHighlight.foreground2": "#ffc057",
+		"editorBracketHighlight.foreground3": "#81d0ff",
+		"editorBracketHighlight.foreground4": "#8de698", // ideal max depth
+		"editorBracketHighlight.foreground5": "#ff888c", // time to re-evaluate
+		"editorBracketHighlight.foreground6": "#7bdff4",
+		"editorBracketHighlight.unexpectedBracket.foreground": "#c01c28",
+		"tab.activeBorder": "#3584e4"
+	},
+	"workbench.colorTheme": "One Dark Pro"
+}
