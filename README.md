@@ -22,6 +22,7 @@ In my search for a vscode theme, I kept running into the same issues that drove 
 - Background color was too blue and/or bright
 - Foreground colors were too dark, bright, and/or warm
 - Red and/or orange-red appeared too frequently in syntax highlighting
+- Or color distribution was just not to my taste in general
 
 So, I'm trying to create a theme that fits the following criteria:
 
