@@ -1,18 +1,15 @@
 # BTV VSCode Themes
 
-SHORT_OVERVIEW
+Visual Studio Code color schemes tailored to my needs.
 
 ## Table of Contents
 
 - [BTV VSCode Themes](#btv-vscode-themes)
   - [Table of Contents](#table-of-contents)
   - [About](#about)
-  - [Installing](#installing)
-  - [Getting Started](#getting-started)
-  - [Usage](#usage)
+  - [Installing / Usage](#installing--usage)
   - [Credits](#credits)
     - [Created By](#created-by)
-    - [Contributing](#contributing)
     - [Acknowledgments](#acknowledgments)
     - [Made Using](#made-using)
   - [Repositories](#repositories)
@@ -20,19 +17,29 @@ SHORT_OVERVIEW
 
 ## About
 
-LONG_OVERVIEW
+In my search for a vscode theme, I kept running into the same issues that drove me away:
 
-## Installing
+- Background color was too blue and/or bright
+- Foreground colors were too dark, bright, and/or warm
+- Red and/or orange-red appeared too frequently in syntax highlighting
 
-INSTALLATION_INSTRUCTIONS
+So, I'm trying to create a theme that fits the following criteria:
 
-## Getting Started
+- A dark, slightly cold background color that isn't close to black
+- Foreground colors with a moderate contrast that use warm colors sparingly
+- Red and red-adjacent colors reserved only for rare and/or important syntax
 
-SETUP_INSTRUCTIONS
+Colors may change in the final product, I'm still prioritizing distribution of colors over color values right now.
 
-## Usage
+All [screenshots](./screenshots/) taken of the custom [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) settings.
 
-HOW_TO_USE
+## Installing / Usage
+
+The standalone theme is far from complete, it is recommended to use the custom [settings](./settings/settings.json) with [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) for now.
+
+Simply cope and paste the contents of my [settings.json](./settings/settings.json) into vscode's settings.json file.
+
+Only the editor has custom colors applied, the rest of the window will be re-colored after colors are set in stone.
 
 ## Credits
 
@@ -40,17 +47,14 @@ HOW_TO_USE
 
 [Brandon Vout](https://brandonvout.com/)
 
-### Contributing
-
-CONTRIBUTORS
-
 ### Acknowledgments
 
-ACKNOWLEDGING
+- [One Dark Pro](https://github.com/Binaryify/OneDark-Pro), for acting as a base theme to test on
+- [libadwaita](https://gnome.pages.gitlab.gnome.org/libadwaita/), for providing balanced colors to test with
 
 ### Made Using
 
-ENGINE_OR_LIBRARIES_OR_TOOLS
+[Yeoman](https://yeoman.io), for the standalone theme
 
 ## Repositories
 
