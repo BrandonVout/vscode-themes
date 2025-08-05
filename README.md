@@ -1,6 +1,6 @@
 # BTV VSCode Themes
 
-Visual Studio Code color schemes tailored to my needs.
+Currently unnamed Visual Studio Code color scheme(s) tailored to my needs.
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ So, I'm trying to create a theme that fits the following criteria:
 - Foreground colors with a moderate contrast that use warm colors sparingly
 - Red and red-adjacent colors reserved only for rare and/or important syntax
 
-Colors may change in the final product, I'm still prioritizing distribution of colors over color values right now.
+Colors are subject to change, I'm prioritizing distribution of colors over color values for now.
 
 All [screenshots](./screenshots/) taken of the custom [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) settings.
 
