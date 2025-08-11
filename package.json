@@ -23,7 +23,8 @@
 		"theme",
 		"dark",
 		"adwaita",
-		"libadwaita"
+		"libadwaita",
+		"gnome"
 	],
 	"contributes": {
 		"themes": [
