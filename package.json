@@ -5,10 +5,17 @@
 	"version": "0.0.1",
 	"preview": true,
 	"publisher": "BrandonVout",
+	"author": {
+		"name": "Brandon Vout"
+	},
 	"engines": {
 		"vscode": "^1.102.0"
 	},
 	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/brandonvout/vscode-themes"
+	},
 	"categories": [
 		"Themes"
 	],
