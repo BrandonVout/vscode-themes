@@ -3,6 +3,7 @@
 	"displayName": "BTV Themes",
 	"description": "Currently unnamed Visual Studio Code color scheme(s) tailored to my needs.",
 	"version": "0.0.1",
+	"preview": true,
 	"publisher": "BrandonVout",
 	"engines": {
 		"vscode": "^1.102.0"
