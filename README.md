@@ -67,4 +67,4 @@ Only the editor has custom colors applied, the rest of the window will be re-col
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-Published under the **[MIT License](./LICENSE)**. Everyone is free to use and modify however they wish.
+Published under the **[MIT License](https://opensource.org/license/mit)**. Everyone is free to use and modify however they wish.
