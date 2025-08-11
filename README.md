@@ -5,15 +5,15 @@ Currently unnamed Visual Studio Code color scheme(s) tailored to my needs.
 ## Table of Contents
 
 - [BTV VSCode Themes](#btv-vscode-themes)
-  - [Table of Contents](#table-of-contents)
-  - [About](#about)
-  - [Installing / Usage](#installing--usage)
-  - [Credits](#credits)
-    - [Created By](#created-by)
-    - [Acknowledgments](#acknowledgments)
-    - [Made Using](#made-using)
-  - [Repositories](#repositories)
-  - [License](#license)
+	- [Table of Contents](#table-of-contents)
+	- [About](#about)
+	- [Installing / Usage](#installing--usage)
+	- [Credits](#credits)
+		- [Created By](#created-by)
+		- [Acknowledgments](#acknowledgments)
+		- [Made Using](#made-using)
+	- [Repositories](#repositories)
+	- [License](#license)
 
 ## About
 
@@ -32,7 +32,7 @@ So, I'm trying to create a theme that fits the following criteria:
 
 Colors are subject to change, I'm prioritizing distribution of colors over color values for now.
 
-All [screenshots](./screenshots/) taken of the custom [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) settings.
+All screenshots taken of the custom [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) settings.
 
 ## Installing / Usage
 
