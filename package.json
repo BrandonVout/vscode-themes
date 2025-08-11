@@ -3,6 +3,7 @@
 	"displayName": "BTV Themes",
 	"description": "Custom color themes for vscode",
 	"version": "0.0.1",
+	"publisher": "BrandonVout",
 	"engines": {
 		"vscode": "^1.102.0"
 	},
