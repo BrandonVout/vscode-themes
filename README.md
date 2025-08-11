@@ -36,9 +36,9 @@ All screenshots taken of the custom [One Dark Pro](https://github.com/Binaryify/
 
 ## Installing / Usage
 
-The standalone theme is far from complete, it is recommended to use the custom [settings](./settings/settings.json) with [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) for now.
+The standalone theme is far from complete, it is recommended to use the custom `settings.json` with [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) for now.
 
-Simply cope and paste the contents of my [settings.json](./settings/settings.json) into vscode's settings.json file.
+Simply cope and paste the contents of my `settings.json` into vscode's settings.json file.
 
 Only the editor has custom colors applied, the rest of the window will be re-colored after colors are set in stone.
 
