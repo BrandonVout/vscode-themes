@@ -55,7 +55,7 @@ Only the editor has custom colors applied, the rest of the window will be re-col
 
 ### Made Using
 
-[Yeoman](https://yeoman.io), for the standalone theme
+[Theme Studio for VS Code](https://themes.vscode.one/), for the standalone theme
 
 ## Repositories
 
