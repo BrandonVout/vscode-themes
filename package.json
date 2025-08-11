@@ -1,7 +1,7 @@
 {
 	"name": "btv-themes",
 	"displayName": "BTV Themes",
-	"description": "Custom color themes for vscode",
+	"description": "Currently unnamed Visual Studio Code color scheme(s) tailored to my needs.",
 	"version": "0.0.1",
 	"publisher": "BrandonVout",
 	"engines": {
