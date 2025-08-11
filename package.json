@@ -11,6 +11,12 @@
 	"categories": [
 		"Themes"
 	],
+	"keywords": [
+		"theme",
+		"dark",
+		"adwaita",
+		"libadwaita"
+	],
 	"contributes": {
 		"themes": [
 			{
