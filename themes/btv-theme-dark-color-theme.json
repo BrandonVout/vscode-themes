@@ -780,7 +780,6 @@
 			"name": "Attribute IDs",
 			"scope": "entity.other.attribute-name.id",
 			"settings": {
-				"fontStyle": "normal",
 				"foreground": "#ffbe6f"
 			}
 		},
@@ -788,7 +787,6 @@
 			"name": "Attribute class",
 			"scope": "entity.other.attribute-name.class.css",
 			"settings": {
-				"fontStyle": "normal",
 				"foreground": "#2ec27e"
 			}
 		},
