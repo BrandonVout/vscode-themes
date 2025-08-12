@@ -113,6 +113,13 @@
 			}
 		},
 		{
+			"name": "Parameter variables",
+			"scope": "variable.parameter",
+			"settings": {
+				"foreground": "#8ff0a4"
+			}
+		},
+		{
 			"name": "Text",
 			"scope": "variable.parameter.function",
 			"settings": {
@@ -200,7 +207,8 @@
 			"name": "js/ts variable.other.constant",
 			"scope": "variable.other.constant",
 			"settings": {
-				"foreground": "#57e389"
+				"fontStyle": "bold",
+				"foreground": "#2ec27e"
 			}
 		},
 		{
@@ -640,7 +648,7 @@
 			"name": "Keyword Control",
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#ffa0d8"
+				"foreground": "#d56199"
 			}
 		},
 		{
@@ -752,7 +760,7 @@
 			"name": "Constants",
 			"scope": "constant",
 			"settings": {
-				"foreground": "#2ec27e"
+				"foreground": "#62a0ea"
 			}
 		},
 		{
@@ -948,6 +956,7 @@
 			"name": "Escape Characters",
 			"scope": "constant.character.escape",
 			"settings": {
+				"fontStyle": "bold",
 				"foreground": "#cdab8f"
 			}
 		},
