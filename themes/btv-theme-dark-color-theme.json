@@ -116,6 +116,7 @@
 			"name": "Parameter variables",
 			"scope": "variable.parameter",
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#8ff0a4"
 			}
 		},
