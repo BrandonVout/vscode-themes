@@ -1426,7 +1426,7 @@
 			}
 		},
 		{
-			"name": "styling css pseudo-elements/classes to be able to differentiate from classes which are the same colour",
+			"name": "styling css pseudo-elements/classes to be able to differentiate from classes which are the same color",
 			"scope": ["entity.other.attribute-name.pseudo-element", "entity.other.attribute-name.pseudo-class"],
 			"settings": {
 				"foreground": "#cdab8f"
@@ -1468,14 +1468,14 @@
 			}
 		},
 		{
-			"name": "Makefile prerequisities",
+			"name": "Makefile prerequisites",
 			"scope": ["meta.scope.prerequisites.makefile"],
 			"settings": {
 				"foreground": "#99c1f1"
 			}
 		},
 		{
-			"name": "Makefile text colour",
+			"name": "Makefile text color",
 			"scope": ["source.makefile"],
 			"settings": {
 				"foreground": "#57e389"
@@ -1808,8 +1808,8 @@
 		"editor.lineHighlightBorder": "#282828",
 		"editorLineNumber.activeForeground": "#ffffff80",
 		"editorLink.activeForeground": "#3584e4",
-		"editorIndentGuide.background": "#404040",
-		"editorIndentGuide.activeBackground": "#707070",
+		"editorIndentGuide.background1": "#404040",
+		"editorIndentGuide.activeBackground1": "#707070",
 		"editorRuler.foreground": "#5a5a5a",
 		"editorBracketMatch.background": "#0064001a",
 		"editorBracketMatch.border": "#888888",
