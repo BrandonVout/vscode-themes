@@ -1105,7 +1105,7 @@
 			"name": "php illegal.non-null-typehinted",
 			"scope": "invalid.illegal.non-null-typehinted.php",
 			"settings": {
-				"foreground": "#f44747"
+				"foreground": "#c01c28"
 			}
 		},
 		{
@@ -1291,7 +1291,7 @@
 		{
 			"scope": "token.error-token",
 			"settings": {
-				"foreground": "#f44747"
+				"foreground": "#c01c28"
 			}
 		},
 		{
@@ -1883,9 +1883,9 @@
 		"notifications.background": "#36363a",
 		"notifications.border": "#ffffff00",
 		"notifications.foreground": "#ffffffe6",
-		"notificationsErrorIcon.foreground": "#c01c28",
-		"notificationsInfoIcon.foreground": "#3584e4",
-		"notificationsWarningIcon.foreground": "#cd9309",
+		"notificationsErrorIcon.foreground": "#ff938c",
+		"notificationsInfoIcon.foreground": "#81d0ff",
+		"notificationsWarningIcon.foreground": "#ffc252",
 		"notificationToast.border": "#ffffff00",
 		"panel.background": "#1d1d20",
 		"panel.border": "#ffffff26",
