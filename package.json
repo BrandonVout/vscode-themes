@@ -2,7 +2,7 @@
 	"name": "btv-themes",
 	"displayName": "BTV Themes",
 	"description": "Currently unnamed Visual Studio Code color scheme(s) tailored to my needs.",
-	"version": "0.0.5",
+	"version": "0.1.0",
 	"preview": true,
 	"publisher": "BrandonVout",
 	"author": {
