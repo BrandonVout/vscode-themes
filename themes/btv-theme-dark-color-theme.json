@@ -2234,6 +2234,7 @@
 		"terminal.ansiRed": "#c01c28",
 		"terminal.ansiWhite": "#c0bfbc",
 		"terminal.ansiYellow": "#f5c211",
+		"terminal.background": "#1d1d20",
 		"terminal.border": "#ffffff26",
 		"terminal.foreground": "#f6f5f4",
 		"terminal.selectionBackground": "#ffffff26",
