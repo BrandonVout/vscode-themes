@@ -5,15 +5,15 @@ Currently unnamed Visual Studio Code color scheme(s) tailored to my needs.
 ## Table of Contents
 
 - [BTV VSCode Themes](#btv-vscode-themes)
-	- [Table of Contents](#table-of-contents)
-	- [About](#about)
-	- [Installing / Usage](#installing--usage)
-	- [Credits](#credits)
-		- [Created By](#created-by)
-		- [Acknowledgments](#acknowledgments)
-		- [Made Using](#made-using)
-	- [Repositories](#repositories)
-	- [License](#license)
+  - [Table of Contents](#table-of-contents)
+  - [About](#about)
+  - [Installing / Usage](#installing--usage)
+  - [Credits](#credits)
+    - [Created By](#created-by)
+    - [Acknowledgments](#acknowledgments)
+    - [Made Using](#made-using)
+  - [Repositories](#repositories)
+  - [License](#license)
 
 ## About
 
@@ -32,17 +32,9 @@ So, I'm trying to create a theme that fits the following criteria:
 
 Colors are subject to change, I'm prioritizing distribution of colors over color values for now.
 
-All screenshots taken of the custom [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) settings.
-
 ## Installing / Usage
 
-Install the [theme](https://marketplace.visualstudio.com/items?itemName=BrandonVout.btv-themes) in Visual Studio Cope.
-
-The standalone theme is far from complete, it is recommended to use the custom `settings.json` with [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) for now.
-
-Simply cope and paste the contents of my `settings.json` into vscode's settings.json file.
-
-Only the editor has custom colors applied in the custom `settings.json`, the rest of the window will be re-colored after colors are set in stone.
+Install the [theme](https://marketplace.visualstudio.com/items?itemName=BrandonVout.btv-themes) in Visual Studio Code.
 
 ## Credits
 
@@ -57,7 +49,7 @@ Only the editor has custom colors applied in the custom `settings.json`, the res
 
 ### Made Using
 
-[Theme Studio for VS Code](https://themes.vscode.one/), for the standalone theme
+[Theme Studio for VS Code](https://themes.vscode.one/), for generating the initial standalone theme
 
 ## Repositories
 
