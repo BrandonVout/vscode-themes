@@ -1,37 +1,37 @@
 {
-	"name": "btv-themes",
-	"displayName": "BTV Themes",
-	"description": "Currently unnamed Visual Studio Code color scheme(s) tailored to my needs.",
-	"version": "0.2.1",
-	"publisher": "BrandonVout",
-	"author": {
-		"name": "Brandon Vout"
-	},
-	"engines": {
-		"vscode": "^1.102.0"
-	},
-	"license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/brandonvout/vscode-themes"
-	},
-	"categories": [
-		"Themes"
-	],
-	"keywords": [
-		"theme",
-		"dark",
-		"adwaita",
-		"libadwaita",
-		"gnome"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "BTV Theme Dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/btv-theme-dark-color-theme.json"
-			}
-		]
-	}
+    "name": "btv-themes",
+    "displayName": "BTV Themes",
+    "description": "Currently unnamed Visual Studio Code color scheme(s) tailored to my needs.",
+    "version": "0.2.1",
+    "publisher": "BrandonVout",
+    "author": {
+        "name": "Brandon Vout"
+    },
+    "engines": {
+        "vscode": "^1.102.0"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/brandonvout/vscode-themes"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark",
+        "adwaita",
+        "libadwaita",
+        "gnome"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "BTV Theme Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/btv-theme-dark-color-theme.json"
+            }
+        ]
+    }
 }
