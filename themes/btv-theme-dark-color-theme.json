@@ -366,6 +366,13 @@
             }
         },
         {
+            "name": "CSS: Important Keyword",
+            "scope": "keyword.other.important",
+            "settings": {
+                "fontStyle": "bold"
+            }
+        },
+        {
             "name": "js/ts module",
             "scope": "support.module.node,support.type.object.module,support.module.node",
             "settings": {
@@ -641,6 +648,7 @@
             "name": "Functions",
             "scope": ["entity.name.function", "meta.require", "support.function.any-method", "variable.function"],
             "settings": {
+                "fontStyle": "bold",
                 "foreground": "#ffbe6f"
             }
         },
@@ -648,6 +656,7 @@
             "name": "Classes",
             "scope": "entity.name.type.namespace",
             "settings": {
+                "fontStyle": "bold",
                 "foreground": "#57e389"
             }
         },
@@ -858,6 +867,7 @@
             "name": "Headings",
             "scope": "markup.heading",
             "settings": {
+                "fontStyle": "bold",
                 "foreground": "#99c1f1"
             }
         },
@@ -865,6 +875,7 @@
             "name": "Headings",
             "scope": "markup.heading punctuation.definition.heading, entity.name.section",
             "settings": {
+                "fontStyle": "bold",
                 "foreground": "#ffbe6f"
             }
         },
@@ -879,7 +890,15 @@
             "name": "Bold",
             "scope": "markup.bold,todo.bold",
             "settings": {
+                "fontStyle": "bold",
                 "foreground": "#2ec27e"
+            }
+        },
+        {
+            "name": "markup.bold.markdown",
+            "scope": "markup.bold.markdown",
+            "settings": {
+                "fontStyle": "bold"
             }
         },
         {
@@ -907,6 +926,7 @@
             "name": "[VSCODE-CUSTOM] Markdown headings",
             "scope": "entity.name.section.markdown",
             "settings": {
+                "fontStyle": "bold",
                 "foreground": "#99c1f1"
             }
         },
