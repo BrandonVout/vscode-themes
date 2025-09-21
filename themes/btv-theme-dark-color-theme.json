@@ -101,6 +101,7 @@
             "name": "support.function.std.rust",
             "scope": "support.function.std.rust",
             "settings": {
+                "fontStyle": "bold",
                 "foreground": "#ffbe6f"
             }
         },
@@ -431,6 +432,7 @@
             "name": "js console function",
             "scope": "entity.name.function,support.function.console",
             "settings": {
+                "fontStyle": "bold",
                 "foreground": "#ffbe6f"
             }
         },
@@ -748,7 +750,8 @@
             "name": "Support",
             "scope": "support.function",
             "settings": {
-                "foreground": "#cdab8f"
+                "fontStyle": "bold",
+                "foreground": "#ffbe6f"
             }
         },
         {
