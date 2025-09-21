@@ -758,7 +758,7 @@
             "name": "Support type",
             "scope": "support.type.property-name",
             "settings": {
-                "foreground": "#99c1f1"
+                "foreground": "#bbd1e5"
             }
         },
         {
