@@ -137,14 +137,14 @@
             "name": "keyword.operator",
             "scope": ["keyword.operator.word"],
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
             "name": "regexp operator.quantifier",
             "scope": "keyword.operator.quantifier.regexp",
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
@@ -229,7 +229,7 @@
             "name": "js/ts import keyword",
             "scope": "keyword.operator.expression.import",
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
@@ -293,7 +293,7 @@
             "name": "java instanceof",
             "scope": "keyword.operator.instanceof.java",
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
@@ -307,21 +307,21 @@
             "name": "operator logical",
             "scope": "keyword.operator.logical",
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
             "name": "operator bitwise",
             "scope": "keyword.operator.bitwise",
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
             "name": "operator channel",
             "scope": "keyword.operator.channel",
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
@@ -335,7 +335,7 @@
             "name": "CSS/SCSS/LESS Operators",
             "scope": "keyword.operator.css,keyword.operator.scss,keyword.operator.less",
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
@@ -411,7 +411,7 @@
                 "keyword.operator.expression.keyof"
             ],
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
@@ -440,21 +440,21 @@
             "name": "keyword.operator.misc.rust",
             "scope": "keyword.operator.misc.rust",
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
             "name": "keyword.operator.sigil.rust",
             "scope": "keyword.operator.sigil.rust",
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
             "name": "operator",
             "scope": "keyword.operator.delete",
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
@@ -475,14 +475,14 @@
             "name": "keyword.operator",
             "scope": "keyword.operator.arithmetic,keyword.operator.comparison,keyword.operator.decrement,keyword.operator.increment,keyword.operator.relational",
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
             "name": "C operator assignment",
             "scope": "keyword.operator.assignment.c,keyword.operator.comparison.c,keyword.operator.c,keyword.operator.increment.c,keyword.operator.decrement.c,keyword.operator.bitwise.shift.c,keyword.operator.assignment.cpp,keyword.operator.comparison.cpp,keyword.operator.cpp,keyword.operator.increment.cpp,keyword.operator.decrement.cpp,keyword.operator.bitwise.shift.cpp",
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
@@ -510,7 +510,7 @@
             "name": "keyword.operator.sizeof.c",
             "scope": "keyword.operator.sizeof.c,keyword.operator.sizeof.cpp",
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
@@ -531,7 +531,7 @@
             "name": "python logical",
             "scope": "keyword.operator.logical.python",
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
@@ -566,21 +566,21 @@
             "name": "Operators",
             "scope": "keyword.operator",
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
             "name": "Compound Assignment Operators",
             "scope": "keyword.operator.assignment.compound",
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
             "name": "Compound Assignment Operators js/ts",
             "scope": "keyword.operator.assignment.compound.js,keyword.operator.assignment.compound.ts",
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
@@ -708,7 +708,7 @@
             "name": "Control Elements",
             "scope": "control.elements, keyword.operator.less",
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
@@ -736,7 +736,7 @@
             "name": "Source Js Keyword Operator Delete,source Js Keyword Operator In,source Js Keyword Operator Of,source Js Keyword Operator Instanceof,source Js Keyword Operator New,source Js Keyword Operator Typeof,source Js Keyword Operator Void",
             "scope": "keyword.operator.expression.delete,keyword.operator.expression.in,keyword.operator.expression.of,keyword.operator.expression.instanceof,keyword.operator.new,keyword.operator.expression.typeof,keyword.operator.expression.void",
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
@@ -1205,14 +1205,14 @@
             "name": "error suppression",
             "scope": "keyword.operator.error-control.php",
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
             "name": "php instanceof",
             "scope": "keyword.operator.type.php",
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
@@ -1282,28 +1282,28 @@
             "name": "php logical/bitwise operator",
             "scope": "keyword.operator.logical.php,keyword.operator.bitwise.php,keyword.operator.arithmetic.php",
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
             "name": "php regexp operator",
             "scope": "keyword.operator.regexp.php",
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
             "name": "php comparison",
             "scope": "keyword.operator.comparison.php",
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
             "name": "php heredoc/nowdoc",
             "scope": "keyword.operator.heredoc.php,keyword.operator.nowdoc.php",
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
@@ -1453,7 +1453,7 @@
             "name": "Import module JS",
             "scope": ["keyword.operator.module"],
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
@@ -1516,28 +1516,28 @@
             "name": "js operator.assignment",
             "scope": ["keyword.operator.assignment"],
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
             "name": "go operator",
             "scope": ["keyword.operator.assignment.go"],
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
             "name": "go operator",
             "scope": ["keyword.operator.arithmetic.go", "keyword.operator.address.go"],
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
             "name": "c arithmetic",
             "scope": ["keyword.operator.arithmetic.c", "keyword.operator.arithmetic.cpp"],
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
@@ -1970,7 +1970,7 @@
         {
             "scope": "keyword.operator.expression.is",
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#8ff0a4"
             }
         },
         {
