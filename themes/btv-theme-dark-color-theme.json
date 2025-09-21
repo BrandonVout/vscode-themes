@@ -783,7 +783,7 @@
             "name": "Meta tag",
             "scope": "meta.tag",
             "settings": {
-                "foreground": "#bbd1e5"
+                "foreground": "#6f8396"
             }
         },
         {
@@ -832,7 +832,8 @@
             "name": "Tags",
             "scope": "entity.name.tag",
             "settings": {
-                "foreground": "#99c1f1"
+                "fontStyle": "bold",
+                "foreground": "#62a0ea"
             }
         },
         {
