@@ -687,7 +687,7 @@
             "name": "Class name php",
             "scope": "variable.other.class.php",
             "settings": {
-                "foreground": "#99c1f1"
+                "foreground": "#57e389"
             }
         },
         {
@@ -850,6 +850,7 @@
             "name": "Attribute IDs",
             "scope": "entity.other.attribute-name.id",
             "settings": {
+                "fontStyle": "italic",
                 "foreground": "#ffbe6f"
             }
         },
@@ -1578,6 +1579,7 @@
             "name": "styling css pseudo-elements/classes to be able to differentiate from classes which are the same color",
             "scope": ["entity.other.attribute-name.pseudo-element", "entity.other.attribute-name.pseudo-class"],
             "settings": {
+                "fontStyle": "bold",
                 "foreground": "#cdab8f"
             }
         },
