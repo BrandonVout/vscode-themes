@@ -137,21 +137,21 @@
             "name": "keyword.operator",
             "scope": ["keyword.operator.word"],
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
             "name": "regexp operator.quantifier",
             "scope": "keyword.operator.quantifier.regexp",
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
             "name": "punctuation.definition",
             "scope": "punctuation.definition.string.begin,punctuation.definition.string.end",
             "settings": {
-                "foreground": "#ff888c"
+                "foreground": "#cdab8f"
             }
         },
         {
@@ -229,7 +229,7 @@
             "name": "js/ts import keyword",
             "scope": "keyword.operator.expression.import",
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
@@ -293,7 +293,7 @@
             "name": "java instanceof",
             "scope": "keyword.operator.instanceof.java",
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
@@ -307,21 +307,21 @@
             "name": "operator logical",
             "scope": "keyword.operator.logical",
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
             "name": "operator bitwise",
             "scope": "keyword.operator.bitwise",
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
             "name": "operator channel",
             "scope": "keyword.operator.channel",
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
@@ -335,7 +335,7 @@
             "name": "CSS/SCSS/LESS Operators",
             "scope": "keyword.operator.css,keyword.operator.scss,keyword.operator.less",
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
@@ -411,7 +411,7 @@
                 "keyword.operator.expression.keyof"
             ],
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
@@ -440,21 +440,21 @@
             "name": "keyword.operator.misc.rust",
             "scope": "keyword.operator.misc.rust",
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
             "name": "keyword.operator.sigil.rust",
             "scope": "keyword.operator.sigil.rust",
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
             "name": "operator",
             "scope": "keyword.operator.delete",
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
@@ -475,14 +475,14 @@
             "name": "keyword.operator",
             "scope": "keyword.operator.arithmetic,keyword.operator.comparison,keyword.operator.decrement,keyword.operator.increment,keyword.operator.relational",
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
             "name": "C operator assignment",
             "scope": "keyword.operator.assignment.c,keyword.operator.comparison.c,keyword.operator.c,keyword.operator.increment.c,keyword.operator.decrement.c,keyword.operator.bitwise.shift.c,keyword.operator.assignment.cpp,keyword.operator.comparison.cpp,keyword.operator.cpp,keyword.operator.increment.cpp,keyword.operator.decrement.cpp,keyword.operator.bitwise.shift.cpp",
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
@@ -510,7 +510,7 @@
             "name": "keyword.operator.sizeof.c",
             "scope": "keyword.operator.sizeof.c,keyword.operator.sizeof.cpp",
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
@@ -531,7 +531,7 @@
             "name": "python logical",
             "scope": "keyword.operator.logical.python",
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
@@ -566,21 +566,21 @@
             "name": "Operators",
             "scope": "keyword.operator",
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
             "name": "Compound Assignment Operators",
             "scope": "keyword.operator.assignment.compound",
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
             "name": "Compound Assignment Operators js/ts",
             "scope": "keyword.operator.assignment.compound.js,keyword.operator.assignment.compound.ts",
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
@@ -708,7 +708,7 @@
             "name": "Control Elements",
             "scope": "control.elements, keyword.operator.less",
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
@@ -736,7 +736,7 @@
             "name": "Source Js Keyword Operator Delete,source Js Keyword Operator In,source Js Keyword Operator Of,source Js Keyword Operator Instanceof,source Js Keyword Operator New,source Js Keyword Operator Typeof,source Js Keyword Operator Void",
             "scope": "keyword.operator.expression.delete,keyword.operator.expression.in,keyword.operator.expression.of,keyword.operator.expression.instanceof,keyword.operator.new,keyword.operator.expression.typeof,keyword.operator.expression.void",
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
@@ -793,7 +793,7 @@
             "name": "Strings",
             "scope": "string",
             "settings": {
-                "foreground": "#ff888c"
+                "foreground": "#cdab8f"
             }
         },
         {
@@ -835,7 +835,6 @@
             "name": "Tags",
             "scope": "entity.name.tag",
             "settings": {
-                "fontStyle": "bold",
                 "foreground": "#62a0ea"
             }
         },
@@ -843,7 +842,7 @@
             "name": "Attributes",
             "scope": "entity.other.attribute-name",
             "settings": {
-                "foreground": "#ffbe6f"
+                "foreground": "#d56199"
             }
         },
         {
@@ -974,7 +973,7 @@
             "name": "[VSCODE-CUSTOM] Markdown Inline Raw",
             "scope": "markup.inline.raw.string.markdown",
             "settings": {
-                "foreground": "#ff888c"
+                "foreground": "#cdab8f"
             }
         },
         {
@@ -1065,7 +1064,7 @@
             "name": "Regular Expressions",
             "scope": "string.regexp",
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#99c1f1"
             }
         },
         {
@@ -1073,7 +1072,7 @@
             "scope": "constant.character.escape",
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#cdab8f"
+                "foreground": "#ff888c"
             }
         },
         {
@@ -1156,7 +1155,7 @@
             "name": "Source Json Meta Structure Dictionary Json > Value Json > String Quoted Json,source Json Meta Structure Array Json > Value Json > String Quoted Json,source Json Meta Structure Dictionary Json > Value Json > String Quoted Json > Punctuation,source Json Meta Structure Array Json > Value Json > String Quoted Json > Punctuation",
             "scope": "source.json meta.structure.dictionary.json > value.json > string.quoted.json,source.json meta.structure.array.json > value.json > string.quoted.json,source.json meta.structure.dictionary.json > value.json > string.quoted.json > punctuation,source.json meta.structure.array.json > value.json > string.quoted.json > punctuation",
             "settings": {
-                "foreground": "#ff888c"
+                "foreground": "#cdab8f"
             }
         },
         {
@@ -1205,14 +1204,14 @@
             "name": "error suppression",
             "scope": "keyword.operator.error-control.php",
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
             "name": "php instanceof",
             "scope": "keyword.operator.type.php",
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
@@ -1282,28 +1281,28 @@
             "name": "php logical/bitwise operator",
             "scope": "keyword.operator.logical.php,keyword.operator.bitwise.php,keyword.operator.arithmetic.php",
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
             "name": "php regexp operator",
             "scope": "keyword.operator.regexp.php",
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
             "name": "php comparison",
             "scope": "keyword.operator.comparison.php",
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
             "name": "php heredoc/nowdoc",
             "scope": "keyword.operator.heredoc.php,keyword.operator.nowdoc.php",
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
@@ -1453,7 +1452,7 @@
             "name": "Import module JS",
             "scope": ["keyword.operator.module"],
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
@@ -1516,28 +1515,28 @@
             "name": "js operator.assignment",
             "scope": ["keyword.operator.assignment"],
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
             "name": "go operator",
             "scope": ["keyword.operator.assignment.go"],
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
             "name": "go operator",
             "scope": ["keyword.operator.arithmetic.go", "keyword.operator.address.go"],
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
             "name": "c arithmetic",
             "scope": ["keyword.operator.arithmetic.c", "keyword.operator.arithmetic.cpp"],
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
@@ -1741,7 +1740,7 @@
             "name": "string",
             "scope": ["beginning.punctuation.definition.quote.markdown.xi"],
             "settings": {
-                "foreground": "#ff888c"
+                "foreground": "#cdab8f"
             }
         },
         {
@@ -1940,7 +1939,7 @@
         {
             "scope": ["constant.character.escape"],
             "settings": {
-                "foreground": "#cdab8f"
+                "foreground": "#ff888c"
             }
         },
         {
@@ -1970,7 +1969,7 @@
         {
             "scope": "keyword.operator.expression.is",
             "settings": {
-                "foreground": "#fba7ff"
+                "foreground": "#ff888c"
             }
         },
         {
@@ -2285,7 +2284,7 @@
         "terminal.selectionBackground": "#ffffff26",
         "terminalCursor.background": "#3584e4",
         "terminalCursor.foreground": "#f6f5f4",
-        "textLink.foreground": "#3584e4",
+        "textLink.foreground": "#81d0ff",
         "textPreformat.foreground": "#2ec27e",
         "titleBar.activeBackground": "#2e2e32",
         "titleBar.activeForeground": "#ffffff8c",
