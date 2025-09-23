@@ -28,7 +28,7 @@
             "foreground": "#2ec27e"
         },
         "variable.constant": {
-            "foreground": "#62a0ea"
+            "foreground": "#2190a4"
         },
         "variable.defaultLibrary": {
             "foreground": "#57e389"
@@ -243,7 +243,7 @@
             "name": "math property js/ts",
             "scope": "support.constant.property.math",
             "settings": {
-                "foreground": "#62a0ea"
+                "foreground": "#2190a4"
             }
         },
         {
@@ -251,7 +251,7 @@
             "scope": "variable.other.constant",
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#62a0ea"
+                "foreground": "#2190a4"
             }
         },
         {
@@ -398,7 +398,7 @@
             "name": "js/ts json",
             "scope": "support.constant.json",
             "settings": {
-                "foreground": "#62a0ea"
+                "foreground": "#2190a4"
             }
         },
         {
@@ -559,7 +559,7 @@
             "name": "python placeholder reset to normal string",
             "scope": "constant.character.format.placeholder.other.python",
             "settings": {
-                "foreground": "#62a0ea"
+                "foreground": "#2190a4"
             }
         },
         {
@@ -1260,14 +1260,14 @@
             "name": "support php constants",
             "scope": "support.constant.core.rust",
             "settings": {
-                "foreground": "#62a0ea"
+                "foreground": "#2190a4"
             }
         },
         {
             "name": "support php constants",
             "scope": "support.constant.ext.php,support.constant.std.php,support.constant.core.php,support.constant.parser-token.php",
             "settings": {
-                "foreground": "#62a0ea"
+                "foreground": "#2190a4"
             }
         },
         {
@@ -1557,7 +1557,7 @@
             "name": "elm constant",
             "scope": ["support.constant.elm"],
             "settings": {
-                "foreground": "#62a0ea"
+                "foreground": "#2190a4"
             }
         },
         {
