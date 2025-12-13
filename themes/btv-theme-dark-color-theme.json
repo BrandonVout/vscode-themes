@@ -1,6 +1,7 @@
 {
     "name": "BTV Theme",
     "type": "dark",
+
     "colors": {
         "actionBar.toggledBackground": "#ffffff26",
         "activityBar.background": "#2e2e32",
@@ -277,6 +278,7 @@
         "walkThrough.embeddedEditorBackground": "#00000050",
         "widget.shadow": "#0000005c"
     },
+
     "semanticHighlighting": true,
     "semanticTokenColors": {
         "annotation:dart": {
@@ -310,9 +312,18 @@
             "foreground": "#57e389"
         }
     },
+
     "tokenColors": [
         {
-            "name": "keyword.operator",
+            "name": "Comments",
+            "scope": ["comment markup.link", "comment.block.documentation", "comment.line.double-slash", "comment", "punctuation.definition.comment"],
+            "settings": {
+                "fontStyle": "italic",
+                "foreground": "#ffffff8c"
+            }
+        },
+        {
+            "name": "Operators",
             "scope": [
                 "keyword.operator.address.go",
                 "keyword.operator.arithmetic.c",
@@ -387,6 +398,21 @@
             }
         },
         {
+            "name": "Parameter Variables",
+            "scope": [
+                "variable.parameter",
+                "variable.parameter.function.language.special.self.python",
+                "variable.parameter.function.language.special.cls.python",
+                "variable.parameter.function.language.python",
+                "variable.parameter.function.python"
+            ],
+            "settings": {
+                "fontStyle": "italic",
+                "foreground": "#8ff0a4"
+            }
+        },
+
+        {
             "scope": ["meta.embedded"],
             "settings": {
                 "foreground": "#bbd1e5"
@@ -443,20 +469,6 @@
             }
         },
         {
-            "name": "variable.parameter.function.language.special.self.python",
-            "scope": ["variable.parameter.function.language.special.self.python"],
-            "settings": {
-                "foreground": "#57e389"
-            }
-        },
-        {
-            "name": "variable.parameter.function.language.special.cls.python",
-            "scope": ["variable.parameter.function.language.special.cls.python"],
-            "settings": {
-                "foreground": "#57e389"
-            }
-        },
-        {
             "name": "storage.modifier.lifetime.rust",
             "scope": ["storage.modifier.lifetime.rust"],
             "settings": {
@@ -507,25 +519,10 @@
             }
         },
         {
-            "name": "Parameter variables",
-            "scope": ["variable.parameter"],
-            "settings": {
-                "fontStyle": "italic",
-                "foreground": "#8ff0a4"
-            }
-        },
-        {
             "name": "Text",
             "scope": ["variable.parameter.function"],
             "settings": {
                 "foreground": "#bbd1e5"
-            }
-        },
-        {
-            "name": "Comment Markup Link",
-            "scope": ["comment markup.link"],
-            "settings": {
-                "foreground": "#ffffff8c"
             }
         },
         {
@@ -807,24 +804,10 @@
             }
         },
         {
-            "name": "python parameter",
-            "scope": ["variable.parameter.function.language.python"],
-            "settings": {
-                "foreground": "#2ec27e"
-            }
-        },
-        {
             "name": "python type",
             "scope": ["support.type.python"],
             "settings": {
                 "foreground": "#cdab8f"
-            }
-        },
-        {
-            "name": "pyCs",
-            "scope": ["variable.parameter.function.python"],
-            "settings": {
-                "foreground": "#2ec27e"
             }
         },
         {
@@ -1963,13 +1946,6 @@
             }
         },
         {
-            "name": "comments",
-            "scope": ["beginning.punctuation.definition.list.markdown.xi"],
-            "settings": {
-                "foreground": "#ffffff8c"
-            }
-        },
-        {
             "name": "link",
             "scope": ["constant.character.xi"],
             "settings": {
@@ -1999,7 +1975,7 @@
         },
         {
             "name": "elements to dim",
-            "scope": ["punctuation.definition.tag.xi"],
+            "scope": ["punctuation.definition.tag.xi", "beginning.punctuation.definition.list.markdown.xi"],
             "settings": {
                 "foreground": "#ffffff8c"
             }
@@ -2023,14 +1999,6 @@
             "scope": [" meta.brace.square"],
             "settings": {
                 "foreground": "#bbd1e5"
-            }
-        },
-        {
-            "name": "Comments",
-            "scope": ["comment", "punctuation.definition.comment"],
-            "settings": {
-                "fontStyle": "italic",
-                "foreground": "#ffffff8c"
             }
         },
         {
@@ -2213,13 +2181,6 @@
                 "variable.language.super",
                 "variable.parameter"
             ],
-            "settings": {
-                "fontStyle": "italic"
-            }
-        },
-        {
-            "name": "comment",
-            "scope": ["comment.line.double-slash", "comment.block.documentation"],
             "settings": {
                 "fontStyle": "italic"
             }
