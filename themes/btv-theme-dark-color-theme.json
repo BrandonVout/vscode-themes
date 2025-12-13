@@ -300,11 +300,11 @@
         "tomlArrayKey": {
             "foreground": "#57e389"
         },
-        "variable:dart": {
-            "foreground": "#2ec27e"
-        },
         "variable.constant": {
             "foreground": "#2190a4"
+        },
+        "variable:dart": {
+            "foreground": "#2ec27e"
         },
         "variable.defaultLibrary": {
             "foreground": "#57e389"
