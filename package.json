@@ -28,9 +28,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "BTV Theme Dark",
+                "label": "BTV Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/btv-theme-dark-color-theme.json"
+            },
+            {
+                "label": "BTV Minimal Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/btv-theme-dark-minimal-theme.json"
             }
         ]
     }
