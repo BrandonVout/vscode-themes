@@ -29,6 +29,14 @@
             }
         },
         {
+            "name": "Function Argument",
+            "scope": ["variable.parameter"],
+            "settings": {
+                "fontStyle": "italic",
+                "foreground": "#99c1f1"
+            }
+        },
+        {
             "name": "Colors",
             "scope": ["constant.other.color"],
             "settings": {
@@ -115,14 +123,6 @@
             ],
             "settings": {
                 "foreground": "#57e389"
-            }
-        },
-        {
-            "name": "Function Argument",
-            "scope": ["variable.parameter"],
-            "settings": {
-                "fontStyle": "italic",
-                "foreground": "#99c1f1"
             }
         },
         {
