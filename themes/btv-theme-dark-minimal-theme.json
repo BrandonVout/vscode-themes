@@ -174,7 +174,7 @@
             "name": "Block Level Variables",
             "scope": ["meta.block variable.other"],
             "settings": {
-                "foreground": "#ff888c"
+                "foreground": "#8ff0a4"
             }
         },
         {
@@ -196,7 +196,7 @@
                 "keyword.other"
             ],
             "settings": {
-                "foreground": "#57e389"
+                "foreground": "#ff888c"
             }
         },
         {
