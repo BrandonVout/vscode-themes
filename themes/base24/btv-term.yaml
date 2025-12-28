@@ -1,0 +1,29 @@
+system: "base24"
+name: "BTV Terminal Dark"
+author: "Brandon Vout <bvout@brandonvout.com>"
+variant: "dark"
+palette:
+  base00: "#3d3846" # ----  dark / background
+  base01: "#5e5c64" # ---   (darkest grey)
+  base02: "#77767b" # --    bright black
+  base03: "#9a9996" # -     (grey)
+  base04: "#c0bfbc" # +     (light grey)
+  base05: "#deddda" # ++    foreground
+  base06: "#f6f5f4" # +++   white
+  base07: "#ffffff" # ++++  bright white
+  base08: "#e62d42" # red
+  base09: "#ed5b00" # (orange)
+  base0A: "#c88800" # yellow
+  base0B: "#3a944a" # green
+  base0C: "#2190a4" # cyan
+  base0D: "#3584e4" # blue
+  base0E: "#9141ac" # purple
+  base0F: "#cdab8f" # (dark red / brown)
+  base10: "#241f31" # (darker black)
+  base11: "#000000" # (darkest black)
+  base12: "#ff888c" # bright red
+  base13: "#ffc057" # bright yellow
+  base14: "#8de698" # bright green
+  base15: "#7bdff4" # bright cyan
+  base16: "#81d0ff" # bright blue
+  base17: "#fba7ff" # bright purple

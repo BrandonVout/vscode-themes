@@ -1,0 +1,29 @@
+system: "base24"
+name: "BTV Code Dark"
+author: "Brandon Vout <bvout@brandonvout.com>"
+variant: "dark"
+palette:
+  base00: "#0f1419" # ---- dark / background
+  base01: "#131721" # ---
+  base02: "#272d38" # --
+  base03: "#3e4b59" # -
+  base04: "#bfbdb6" # +
+  base05: "#e6e1cf" # ++
+  base06: "#e6e1cf" # +++
+  base07: "#f3f4f5" # ++++ light
+  base08: "#f66151" # red
+  base09: "#ffbe6f" # orange
+  base0A: "#ffc057" # yellow
+  base0B: "#8ff0a4" # green
+  base0C: "#2190a4" # cyan
+  base0D: "#99c1f1" # blue
+  base0E: "#dc8add" # purple
+  base0F: "#cdab8f" # brown
+  base10: "#f07178" # darker black
+  base11: "#f07178" # darkest black
+  base12: "#f66151" # bright red
+  base13: "#f9f06b" # bright yellow
+  base14: "#8ff0a4" # bright green
+  base15: "#7bdff4" # bright cyan
+  base16: "#99c1f1" # bright blue
+  base17: "#ffa0d8" # bright purple
