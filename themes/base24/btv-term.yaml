@@ -3,12 +3,12 @@ name: "BTV Terminal Dark"
 author: "Brandon Vout <bvout@brandonvout.com>"
 variant: "dark"
 palette:
-  base00: "#3d3846" # ----  dark / background
+  base00: "#1d1d20" # ----  dark / background
   base01: "#5e5c64" # ---   (darkest grey)
   base02: "#77767b" # --    bright black
   base03: "#9a9996" # -     (grey)
   base04: "#c0bfbc" # +     (light grey)
-  base05: "#deddda" # ++    foreground
+  base05: "#f6f5f4" # ++    foreground
   base06: "#f6f5f4" # +++   white
   base07: "#ffffff" # ++++  bright white
   base08: "#e62d42" # red
