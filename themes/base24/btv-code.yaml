@@ -3,27 +3,27 @@ name: "BTV Code Dark"
 author: "Brandon Vout <bvout@brandonvout.com>"
 variant: "dark"
 palette:
-  base00: "#0f1419" # ---- dark / background
-  base01: "#131721" # ---
-  base02: "#272d38" # --
-  base03: "#3e4b59" # -
-  base04: "#bfbdb6" # +
-  base05: "#e6e1cf" # ++
-  base06: "#e6e1cf" # +++
-  base07: "#f3f4f5" # ++++ light
-  base08: "#f66151" # red
-  base09: "#ffbe6f" # orange
-  base0A: "#ffc057" # yellow
-  base0B: "#8ff0a4" # green
-  base0C: "#2190a4" # cyan
-  base0D: "#99c1f1" # blue
-  base0E: "#dc8add" # purple
-  base0F: "#cdab8f" # brown
-  base10: "#f07178" # darker black
-  base11: "#f07178" # darkest black
-  base12: "#f66151" # bright red
-  base13: "#f9f06b" # bright yellow
-  base14: "#8ff0a4" # bright green
-  base15: "#7bdff4" # bright cyan
-  base16: "#99c1f1" # bright blue
-  base17: "#ffa0d8" # bright purple
+  base00: "#3d3846" # ----  default background
+  base01: "#5e5c64" # ---   lighter background (used for status bars)
+  base02: "#77767b" # --    selection background
+  base03: "#9a9996" # -     comments, invisibles, line highlighting
+  base04: "#c0bfbc" # +     dark foreground (used for status bars)
+  base05: "#deddda" # ++    default foreground, caret, delimiters, operators
+  base06: "#f6f5f4" # +++   light foreground (not often used)
+  base07: "#ffffff" # ++++  lightest foreground (not often used)
+  base08: "#e62d42" # variables, xml tags, markup link text, markup lists, diff deleted
+  base09: "#ed5b00" # integers, boolean, constants, xml attributes, markup link url
+  base0A: "#c88800" # classes, markup bold, search text background
+  base0B: "#3a944a" # strings, inherited class, markup code, diff inserted
+  base0C: "#2190a4" # support, regular expressions, escape characters, markup quotes
+  base0D: "#3584e4" # functions, methods, attribute ids, headings
+  base0E: "#9141ac" # keywords, storage, selector, markup italic, diff changed
+  base0F: "#cdab8f" # deprecated highlighting for methods and functions, opening/closing embedded language tags, e.g., <?php ?>
+  base10: "#241f31" # darker background
+  base11: "#000000" # darkest background
+  base12: "#ff888c" # fallback to base08
+  base13: "#ffc057" # fallback to base0A
+  base14: "#8de698" # fallback to base0B
+  base15: "#7bdff4" # fallback to base0C
+  base16: "#81d0ff" # fallback to base0D
+  base17: "#fba7ff" # fallback to base0E
