@@ -9,18 +9,21 @@
 
     "tokenColors": [
         {
+            "name": "Comments",
             "scope": ["comment", "punctuation.definition.comment", "source.diff"],
             "settings": {
                 "foreground": "#ffffff8c"
             }
         },
         {
+            "name": "Functions",
             "scope": ["entity.name.function", "support.function", "meta.diff.range", "punctuation.definition.range.diff"],
             "settings": {
                 "foreground": "#ffbe6f"
             }
         },
         {
+            "name": "Keywords",
             "scope": [
                 "keyword",
                 "punctuation.definition.keyword",
@@ -35,24 +38,28 @@
             }
         },
         {
+            "name": "Control Keywords",
             "scope": ["keyword.control"],
             "settings": {
                 "foreground": "#d56199"
             }
         },
         {
+            "name": "Constants & Support Constants",
             "scope": ["constant", "support.constant"],
             "settings": {
                 "foreground": "#56B6C2"
             }
         },
         {
+            "name": "Namespaces & Storage",
             "scope": ["storage", "support.class", "entity.name.namespace", "meta.diff.header"],
             "settings": {
                 "foreground": "#d56199"
             }
         },
         {
+            "name": "String Literals & Inserted Text",
             "scope": [
                 "markup.inline.raw.string",
                 "string",
@@ -66,24 +73,44 @@
             }
         },
         {
+            "name": "Tags, Types & Sections",
             "scope": ["entity.name.section", "entity.name.tag", "entity.name.type", "support.type"],
             "settings": {
                 "foreground": "#62a0ea"
             }
         },
         {
+            "name": "Properties & Variables",
             "scope": ["support.type.property-name", "support.variable", "variable"],
             "settings": {
                 "foreground": "#bbd1e5"
             }
         },
         {
+            "name": "Constants",
+            "scope": ["variable.other.constant"],
+            "settings": {
+                "fontStyle": "bold",
+                "foreground": "#bbd1e5"
+            }
+        },
+        {
+            "name": "Parameters",
+            "scope": ["variable.parameter"],
+            "settings": {
+                "fontStyle": "italic",
+                "foreground": "#bbd1e5"
+            }
+        },
+        {
+            "name": "Attributes & Properties",
             "scope": ["entity.other", "punctuation.definition.entity", "support.other"],
             "settings": {
                 "foreground": "#57e389"
             }
         },
         {
+            "name": "Braces & Punctuation",
             "scope": ["meta.brace", "punctuation"],
             "settings": {
                 "foreground": "#ffffff8c"
