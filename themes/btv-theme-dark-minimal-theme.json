@@ -35,6 +35,12 @@
             }
         },
         {
+            "scope": ["keyword.control"],
+            "settings": {
+                "foreground": "#d56199"
+            }
+        },
+        {
             "scope": ["constant", "support.constant"],
             "settings": {
                 "foreground": "#56B6C2"
