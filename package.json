@@ -33,6 +33,11 @@
                 "path": "./themes/btv-theme-dark-color-theme.json"
             },
             {
+                "label": "BTV Alt Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/btv-theme-dark-alt-theme.json"
+            },
+            {
                 "label": "BTV Minimal Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/btv-theme-dark-minimal-theme.json"
