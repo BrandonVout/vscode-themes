@@ -45,6 +45,7 @@ Install the [theme](https://marketplace.visualstudio.com/items?itemName=BrandonV
 ### Acknowledgments
 
 - [One Dark Pro](https://github.com/Binaryify/OneDark-Pro), for acting as a base theme to test on
+- [Plastic](https://github.com/will-stone/plastic), for acting as a base for the minimal theme
 - [libadwaita](https://gnome.pages.gitlab.gnome.org/libadwaita/), for providing balanced colors to test with
 
 ### Made Using
